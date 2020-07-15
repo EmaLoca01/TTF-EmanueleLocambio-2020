@@ -16,3 +16,12 @@ C:\Users\cicci\source\repos\TTF-LocambioEmanuele-2021\Parity\obj\Debug\netcoreap
 C:\Users\cicci\source\repos\TTF-LocambioEmanuele-2021\Parity\obj\Debug\netcoreapp3.1\Parity.csproj.CoreCompileInputs.cache
 C:\Users\cicci\source\repos\TTF-LocambioEmanuele-2021\Parity\obj\Debug\netcoreapp3.1\Parity.dll
 C:\Users\cicci\source\repos\TTF-LocambioEmanuele-2021\Parity\obj\Debug\netcoreapp3.1\Parity.pdb
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\bin\Debug\netcoreapp3.1\Parity.deps.json
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\bin\Debug\netcoreapp3.1\Parity.dll
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\bin\Debug\netcoreapp3.1\Parity.pdb
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\obj\Debug\netcoreapp3.1\Parity.csprojAssemblyReference.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\obj\Debug\netcoreapp3.1\Parity.AssemblyInfoInputs.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\obj\Debug\netcoreapp3.1\Parity.AssemblyInfo.cs
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\obj\Debug\netcoreapp3.1\Parity.csproj.CoreCompileInputs.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\obj\Debug\netcoreapp3.1\Parity.dll
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\Parity\obj\Debug\netcoreapp3.1\Parity.pdb

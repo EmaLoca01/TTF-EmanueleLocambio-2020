@@ -25,8 +25,8 @@ namespace ParityUnitTest
         [TestCase(2)]
         [TestCase(4)]
         [TestCase(6)]
-        [TestCase(2103210864858)]
-        [TestCase(-21864878)]
+        [TestCase(2104)]
+        [TestCase(-218648)]
         [TestCase(0)]
         public void IsEven_ShouldReturnFalse_WhenNumbersIsDivisibleByTwo(int number)
         {
@@ -38,15 +38,15 @@ namespace ParityUnitTest
         [Test]
         public void IsOdd_ShouldReturnFalse_WhenNumbersIsNotDivisibleByTwo()
         {
-            bool isOdd = ParityService.IsEven(1);
+            bool isOdd = ParityService.IsOdd(1);
 
             Assert.That(isOdd, Is.False);
         }
 
         [Test]
-        public void IsOdd_ShouldReturnFalse_WhenNumbersIsDivisibleByTwo()
+        public void IsOdd_ShouldReturnTrue_WhenNumbersIsDivisibleByTwo()
         {
-            bool isOdd = ParityService.IsEven(2);
+            bool isOdd = ParityService.IsOdd(2);
 
             Assert.That(isOdd, Is.True);
         }

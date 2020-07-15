@@ -6,12 +6,12 @@ namespace Parity
     {
         public static bool IsEven(int number)
         {
-            return number % 2 == 0 ? false : true;
+            return number % 2 != 0;
         }
 
         public static bool IsOdd(int number)
         {
-            return number % 2 == 0 ? false : true;
+            return !IsEven(number);
         }
     }
 }
