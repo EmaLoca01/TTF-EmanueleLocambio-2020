@@ -1,0 +1,9 @@
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csprojAssemblyReference.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
