@@ -6,7 +6,7 @@ namespace LeapYear
     {
         public static bool IsEven(int number)
         {
-            return number % 4 == 0;
+            return number % 4 == 0 && number % 100 != 0;
         }
     }
 }
