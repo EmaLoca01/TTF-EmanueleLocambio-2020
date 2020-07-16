@@ -14,7 +14,7 @@ namespace StringCalculator
                 return 0;
             }
 
-            string[] numbers = stg.Split(',');
+            string[] numbers = stg.Split(',', '\n');
             List<int> nbs = ConvertToInteger(numbers);
 
             return nbs.Sum();

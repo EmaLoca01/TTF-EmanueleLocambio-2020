@@ -42,10 +42,10 @@ namespace StringCalculatorUnitTest
             Assert.That(numbers, Is.EqualTo(21));
         }
 
-        //[Test]
+        [Test]
         public void ReturnTheSum_WhenSeparatorsAreDifferent()
         {
-            int numbers = StringCalculatorService.Add("1/n2, 3, 5/n10");
+            int numbers = StringCalculatorService.Add("1\n2, 3, 5\n10");
 
             Assert.That(numbers, Is.EqualTo(21));
         }
