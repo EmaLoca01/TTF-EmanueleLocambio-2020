@@ -15,18 +15,20 @@ namespace StringCalculator
             }
 
             string[] numbers = stg.Split(',');
-            if (numbers.Length > 0)
-            {
-                List<int> nbs = new List<int>();
-                foreach (string number in numbers)
-                {
-                    nbs.Add(int.Parse(number));
-                }
+            List<int> nbs = ConvertToInteger(numbers);
 
-                return nbs.Sum();
+            return nbs.Sum();
+        }
+
+        private static List<int> ConvertToInteger(string[] numbers)
+        {
+            List<int> nbs = new List<int>();
+            foreach (string number in numbers)
+            {
+                nbs.Add(int.Parse(number));
             }
 
-            return int.Parse(stg);
+            return nbs;
         }
     }
 }
