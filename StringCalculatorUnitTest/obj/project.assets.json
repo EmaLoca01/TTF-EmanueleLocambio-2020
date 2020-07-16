@@ -4648,11 +4648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cicci\\source\\repos\\StringCalculatorUnitTest\\StringCalculatorUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculatorUnitTest\\StringCalculatorUnitTest.csproj",
       "projectName": "StringCalculatorUnitTest",
-      "projectPath": "C:\\Users\\cicci\\source\\repos\\StringCalculatorUnitTest\\StringCalculatorUnitTest.csproj",
+      "projectPath": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculatorUnitTest\\StringCalculatorUnitTest.csproj",
       "packagesPath": "C:\\Users\\cicci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cicci\\source\\repos\\StringCalculatorUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculatorUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4671,8 +4671,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\cicci\\source\\repos\\StringCalculator\\StringCalculator.csproj": {
-              "projectPath": "C:\\Users\\cicci\\source\\repos\\StringCalculator\\StringCalculator.csproj"
+            "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculator\\StringCalculator.csproj": {
+              "projectPath": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculator\\StringCalculator.csproj"
             }
           }
         }

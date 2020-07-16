@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M2aeyXrdJ1uOzGeaaTdXVEqZAycA8Y4mYfYD0dUkul1XlRA/BGVsZI493HrODVUlcWzXLFRWcytSI/90ZwWlhQ==",
+  "dgSpecHash": "Iz+7jwTsPRLsE0xEX/Ob/U5scOpiFvifZv+c2oZi2SSQ0EChqbHlj4wPzV0UGQedQl8wnpXXDzQJlNeC7riCQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cicci\\source\\repos\\StringCalculatorUnitTest\\StringCalculatorUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculatorUnitTest\\StringCalculatorUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cicci\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\cicci\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

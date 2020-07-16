@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cicci\\source\\repos\\StringCalculator\\StringCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculator\\StringCalculator.csproj",
       "projectName": "StringCalculator",
-      "projectPath": "C:\\Users\\cicci\\source\\repos\\StringCalculator\\StringCalculator.csproj",
+      "projectPath": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculator\\StringCalculator.csproj",
       "packagesPath": "C:\\Users\\cicci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cicci\\source\\repos\\StringCalculator\\obj\\",
+      "outputPath": "C:\\Users\\cicci\\source\\repos\\TTF-EmanueleLocambio-2020\\StringCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
