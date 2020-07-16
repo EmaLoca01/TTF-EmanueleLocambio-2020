@@ -14,7 +14,20 @@ namespace StringCalculator
                 return 0;
             }
 
-            string[] numbers = stg.Split(',', '\n');
+            string[] delimiter;
+            string stgWithNumbers;
+            if (stg.StartsWith("//"))
+            {
+                delimiter = new string[] { stg.Substring(2, 1) };
+                stgWithNumbers = stg.Substring(4);
+            }
+            else
+            {
+                delimiter = new string[] { ",", "\n" };
+                stgWithNumbers = stg;
+            }
+
+            string[] numbers = stgWithNumbers.Split(delimiter, StringSplitOptions.None);
             List<int> nbs = ConvertToInteger(numbers);
 
             return nbs.Sum();

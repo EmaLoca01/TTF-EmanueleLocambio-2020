@@ -49,5 +49,13 @@ namespace StringCalculatorUnitTest
 
             Assert.That(numbers, Is.EqualTo(21));
         }
+
+        [Test]
+        public void ReturnTheSum_WhenSeparatorIsCustomized()
+        {
+            int numbers = StringCalculatorService.Add("//;\n1; 2");
+
+            Assert.That(numbers, Is.EqualTo(3));
+        }
     }
 }
