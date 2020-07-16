@@ -7,3 +7,12 @@ C:\Users\cicci\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalcu
 C:\Users\cicci\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
 C:\Users\cicci\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
 C:\Users\cicci\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.deps.json
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csprojAssemblyReference.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\cicci\source\repos\TTF-EmanueleLocambio-2020\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb

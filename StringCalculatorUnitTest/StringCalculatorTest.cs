@@ -11,7 +11,7 @@ namespace StringCalculatorUnitTest
         }
 
         [Test]
-        public void ReturnZeroForInputString()
+        public void ReturnZero_WhenInputIsAnEmptyString()
         {
             int number = StringCalculatorService.Add("");
 
@@ -19,11 +19,27 @@ namespace StringCalculatorUnitTest
         }
 
         [Test]
-        public void ReturnNumberForNumber()
+        public void ReturnANumber_WhenInputIsANumber()
         {
             int number = StringCalculatorService.Add("1");
 
             Assert.That(number, Is.EqualTo(1));
+        }
+
+        [Test]
+        public void ReturnTheSum_WhenInputAreTwoNumbers()
+        {
+            int numbers = StringCalculatorService.Add("1, 2");
+
+            Assert.That(numbers, Is.EqualTo(3));
+        }
+
+        [Test]
+        public void ReturnTheSum_WhenInputIsAListOfNumbers()
+        {
+            int numbers = StringCalculatorService.Add("1, 2, 3, 5, 10");
+
+            Assert.That(numbers, Is.EqualTo(21));
         }
     }
 }
